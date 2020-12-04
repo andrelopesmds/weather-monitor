@@ -1,0 +1,20 @@
+{
+  "frequency": "* * * * *",
+  "cities": [
+    {
+      "name": "helsinki",
+      "threshold": 0,
+      "openWeatherId": 658225
+    },
+    {
+      "name": "madrid",
+      "threshold": 10,
+      "openWeatherId": 3675707
+    },
+    {
+      "name": "horizonte",
+      "threshold": 20,
+      "openWeatherId": 3398450
+    }
+  ]
+}
